@@ -1,15 +1,7 @@
-# 目录
+# 缘起
 
-### Tips
+Nov 21, 2025
 
-* Choose your tool based on the type of challenge:
-* Use **5 Whys/Fishbone** for root causes
-* **Mind Mapping/SCAMPER/Lotus Blossom** for idea generation
-* **Eisenhower Matrix/Decision Matrix** for prioritization
-* **SWOT/PEST/CATWOE** for strategic context
-* **Six Thinking Hats/Socratic Questioning** for group or critical analysis
+因为notability抽风 + 它家备份成proprietary格式，升级之后打不开，丧失了很多note。以后只信markdown的我，打开了这个用了8年一毛钱不收的软件。加上，能同步到github，所以应该挺安全的。
 
-
-
-* Mix and match: These tools can often be combined for deeper insights.
-* Keep it visual: Use diagrams or sticky notes for better engagement.
+还有，最近发现自己看了很多书，但一直没机会整理，不能忍了，所以开始构建自己的知识库，不然白看了，人生也过不好了。
