@@ -8,4 +8,4 @@
 
 不爱了。
 
-还是默默拿出我的vscode，l老老实实写mark down算了。
+还是默默拿出我的vscode，老老实实写mark down算了。
