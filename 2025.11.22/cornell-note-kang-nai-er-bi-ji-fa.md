@@ -14,7 +14,7 @@
 1. 工具，纸笔就行了。
 2. 传统做法是把一页切开，但其实只要你分好部分就行，不用一定都放同一页。重点是分开不同的部分。
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 3. 传统的好像没有“主题“，但其实没啥关系。重点是怎么用
 4. 首先，把平时流水账，上课听讲的，或者读书看到的，写到**笔记**区&#x57DF;_&#x52;ecord_
